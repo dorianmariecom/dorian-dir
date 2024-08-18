@@ -3,8 +3,8 @@
 Gem::Specification.new do |s|
   s.name = "dorian-dir"
   s.version = "0.5.0"
-  s.summary = "List directories"
-  s.description = "#{s.summary}\n\ne.g. `dir`"
+  s.summary = "list directories"
+  s.description = s.summary
   s.authors = ["Dorian Marié"]
   s.email = "dorian@dorianmarie.com"
   s.files = ["bin/dir"]
