@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dorian-dir (2.0.0)
+    dorian-dir (2.0.1)
       dorian-arguments
       git
 
